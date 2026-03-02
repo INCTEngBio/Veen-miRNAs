@@ -17,5 +17,5 @@ The script expects a **.txt (tab-separated)** file named `familias_mirna.txt`.
 
 ### Tech Stack:
 * **Python** (`Pandas`, `Matplotlib`, `Venn`).
-* install:
+* **Install**
 pip install pandas numpy matplotlib seaborn scikit-learn venn
