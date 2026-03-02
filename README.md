@@ -1,4 +1,5 @@
 ## Tool: Veen-miRNAs (Visualizing miRNA Family Distribution)
+Authors: ELÍBIO LEOPOLDO RECH FILHO, DEBORAH BAMBIL, RAYANE NUNES LIMA, MARCO ANTÔNIO DE OLIVEIRA, PATRÍCIA VERDUGO PASCOAL, LUISA MAYUMI ARAKE DE TACCA
 
 This tool generates high-quality **Venn Diagrams** to visualize the intersection and uniqueness of miRNA families across different biological groups or biomes. It includes automated data cleaning and legend formatting for publication-ready figures.
 
